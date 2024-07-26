@@ -24,3 +24,10 @@
 В кінці для перевірки виконати команди
  git log --pretty=oneline
  git reflog
+
+ 
+ Створити в проекті .gitignore
+     в ньому ігноруйте 
+        node_modules
+        test-file.docx
+    створіть test-file.docx і переконайтеся що його не індексує
