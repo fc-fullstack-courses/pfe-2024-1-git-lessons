@@ -46,3 +46,17 @@
     git log
     git add
     git commit
+
+Завдання:
+    Створіть гілку branch-task-1
+    Перейдіть на неї
+    Зробіть на ній 2 коміти з якимись змінами 
+    поверніться на гілку main та злийте коміти з гілки branch-task-1 до main
+    
+Команди:
+    git branch
+    git branch <ім'я>
+    git switch <ім'я>
+    git merge <ім'я>
+    git add
+    git commit
